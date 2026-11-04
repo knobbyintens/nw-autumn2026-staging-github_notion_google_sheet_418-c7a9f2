@@ -1,0 +1,11 @@
+Gemma Terms of Use
+
+Copyright 2024 Google LLC.
+
+By using the Gemma model, you agree to the Gemma Terms of Use, the Gemma
+Prohibited Use Policy and the applicable laws and regulations. The Gemma
+Terms of Use govern your use of the Gemma model weights, parameter
+distributions, source code, and associated documentation.
+
+Key points: redistribution is permitted subject to the Terms; you must include
+a copy of the Terms; use is subject to Google's prohibited-use policy.
