@@ -3,8 +3,8 @@
   "release_version": "0.3.1",
   "release_date": "2026-06-18",
   "maintainer": "Nimbus Labs Data Governance <dataset-governance@nimbus-labs.example>",
-  "license": "unset",
-  "commercial_use": "unset",
-  "generator_model": "unset",
-  "notes": "Licence fields are completed after the legal review of each release."
+  "license": "cc-by-nc-4.0",
+  "commercial_use": false,
+  "generator_model": "command-r-plus-08-2024",
+  "notes": "Licence recorded by dataset governance after review of the generator model card."
 }
