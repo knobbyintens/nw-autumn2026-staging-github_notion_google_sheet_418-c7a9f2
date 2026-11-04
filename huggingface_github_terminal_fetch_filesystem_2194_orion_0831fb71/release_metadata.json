@@ -1,0 +1,10 @@
+{
+  "dataset_name": "Orion-Synth-Instructions",
+  "release_version": "0.3.1",
+  "release_date": "2026-06-18",
+  "maintainer": "Nimbus Labs Data Governance <dataset-governance@nimbus-labs.example>",
+  "license": "unset",
+  "commercial_use": "unset",
+  "generator_model": "unset",
+  "notes": "Licence fields are completed after the legal review of each release."
+}
