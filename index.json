@@ -1,0 +1,450 @@
+[
+  {
+    "item_id": "NW-0001",
+    "path": "staging/NW-0001/doc.md",
+    "title": "The Cartographer's Last Map",
+    "section": "Fiction",
+    "summary": "A fiction work centred on 'The Cartographer's Last Map', exploring memory and distance with an emphasis on precise sensory detail."
+  },
+  {
+    "item_id": "NW-0002",
+    "path": "staging/NW-0002/doc.md",
+    "title": "A Season of Borrowed Light",
+    "section": "Fiction",
+    "summary": "A fiction work centred on 'A Season of Borrowed Light', exploring inheritance and repair with an emphasis on dry humour."
+  },
+  {
+    "item_id": "NW-0003",
+    "path": "staging/NW-0003/doc.md",
+    "title": "The Quiet Orchard",
+    "section": "Fiction",
+    "summary": "A fiction work centred on 'The Quiet Orchard', exploring ordinary courage with an emphasis on tender observation."
+  },
+  {
+    "item_id": "NW-0004",
+    "path": "staging/NW-0004/doc.md",
+    "title": "Salt and Iron",
+    "section": "Fiction",
+    "summary": "A fiction work centred on 'Salt and Iron', exploring the passage of seasons with an emphasis on clear-eyed honesty."
+  },
+  {
+    "item_id": "NW-0005",
+    "path": "staging/NW-0005/doc.md",
+    "title": "The Museum of Unopened Letters",
+    "section": "Fiction",
+    "summary": "A fiction work centred on 'The Museum of Unopened Letters', exploring maps and misdirection with an emphasis on rhythmic prose."
+  },
+  {
+    "item_id": "NW-0006",
+    "path": "staging/NW-0006/doc.md",
+    "title": "Midnight at the Ferris Wheel",
+    "section": "Fiction",
+    "summary": "A fiction work centred on 'Midnight at the Ferris Wheel', exploring quiet resilience with an emphasis on historical depth."
+  },
+  {
+    "item_id": "NW-0008",
+    "path": "staging/NW-0008/doc.md",
+    "title": "A Field Guide to Empty Houses",
+    "section": "Fiction",
+    "summary": "A fiction work centred on 'A Field Guide to Empty Houses', exploring the texture of daily work with an emphasis on plainspoken warmth."
+  },
+  {
+    "item_id": "NW-0009",
+    "path": "staging/NW-0009/doc.md",
+    "title": "The Last Train to Wrenfield",
+    "section": "Fiction",
+    "summary": "A fiction work centred on 'The Last Train to Wrenfield', exploring language and loss with an emphasis on careful argument."
+  },
+  {
+    "item_id": "NW-0010",
+    "path": "staging/NW-0010/doc.md",
+    "title": "Paper Boats on the Orchard Canal",
+    "section": "Fiction",
+    "summary": "A fiction work centred on 'Paper Boats on the Orchard Canal', exploring friendship across generations with an emphasis on unexpected intimacy."
+  },
+  {
+    "item_id": "NW-0011",
+    "path": "staging/NW-0011/doc.md",
+    "title": "On the Ethics of Remembering",
+    "section": "Essays",
+    "summary": "A essays work centred on 'On the Ethics of Remembering', exploring the weight of small decisions with an emphasis on slow-burning tension."
+  },
+  {
+    "item_id": "NW-0012",
+    "path": "staging/NW-0012/doc.md",
+    "title": "The Architecture of Silence",
+    "section": "Essays",
+    "summary": "A essays work centred on 'The Architecture of Silence', exploring place and identity with an emphasis on generous curiosity."
+  },
+  {
+    "item_id": "NW-0013",
+    "path": "staging/NW-0013/doc.md",
+    "title": "What We Talk About When We Talk About Rain",
+    "section": "Essays",
+    "summary": "A essays work centred on 'What We Talk About When We Talk About Rain', exploring memory and distance with an emphasis on precise sensory detail."
+  },
+  {
+    "item_id": "NW-0014",
+    "path": "staging/NW-0014/doc.md",
+    "title": "A Brief History of the Kitchen Table",
+    "section": "Essays",
+    "summary": "A essays work centred on 'A Brief History of the Kitchen Table', exploring inheritance and repair with an emphasis on dry humour."
+  },
+  {
+    "item_id": "NW-0015",
+    "path": "staging/NW-0015/doc.md",
+    "title": "Notes from a Borrowed City",
+    "section": "Essays",
+    "summary": "A essays work centred on 'Notes from a Borrowed City', exploring ordinary courage with an emphasis on tender observation."
+  },
+  {
+    "item_id": "NW-0016",
+    "path": "staging/NW-0016/doc.md",
+    "title": "The Art of Leaving a Room",
+    "section": "Essays",
+    "summary": "A essays work centred on 'The Art of Leaving a Room', exploring the passage of seasons with an emphasis on clear-eyed honesty."
+  },
+  {
+    "item_id": "NW-0017",
+    "path": "staging/NW-0017/doc.md",
+    "title": "Small Machines and Their Quiet Lives",
+    "section": "Essays",
+    "summary": "A essays work centred on 'Small Machines and Their Quiet Lives', exploring maps and misdirection with an emphasis on rhythmic prose."
+  },
+  {
+    "item_id": "NW-0019",
+    "path": "staging/NW-0019/doc.md",
+    "title": "Letters to a Younger Self",
+    "section": "Poetry",
+    "summary": "A poetry work centred on 'Letters to a Younger Self', exploring belonging and departure with an emphasis on lyrical restraint."
+  },
+  {
+    "item_id": "NW-0020",
+    "path": "staging/NW-0020/doc.md",
+    "title": "The Weather Inside the House",
+    "section": "Poetry",
+    "summary": "A poetry work centred on 'The Weather Inside the House', exploring the texture of daily work with an emphasis on plainspoken warmth."
+  },
+  {
+    "item_id": "NW-0021",
+    "path": "staging/NW-0021/doc.md",
+    "title": "Field Notes for an Approaching Storm",
+    "section": "Poetry",
+    "summary": "A poetry work centred on 'Field Notes for an Approaching Storm', exploring language and loss with an emphasis on careful argument."
+  },
+  {
+    "item_id": "NW-0022",
+    "path": "staging/NW-0022/doc.md",
+    "title": "A Pocket Full of River Stones",
+    "section": "Poetry",
+    "summary": "A poetry work centred on 'A Pocket Full of River Stones', exploring friendship across generations with an emphasis on unexpected intimacy."
+  },
+  {
+    "item_id": "NW-0023",
+    "path": "staging/NW-0023/doc.md",
+    "title": "Winter Arithmetic",
+    "section": "Poetry",
+    "summary": "A poetry work centred on 'Winter Arithmetic', exploring the weight of small decisions with an emphasis on slow-burning tension."
+  },
+  {
+    "item_id": "NW-0024",
+    "path": "staging/NW-0024/doc.md",
+    "title": "The Sound of Snow Remembering",
+    "section": "Poetry",
+    "summary": "A poetry work centred on 'The Sound of Snow Remembering', exploring place and identity with an emphasis on generous curiosity."
+  },
+  {
+    "item_id": "NW-0026",
+    "path": "staging/NW-0026/doc.md",
+    "title": "The Gardener Speaks in Questions",
+    "section": "Poetry",
+    "summary": "A poetry work centred on 'The Gardener Speaks in Questions', exploring inheritance and repair with an emphasis on dry humour."
+  },
+  {
+    "item_id": "NW-0027",
+    "path": "staging/NW-0027/doc.md",
+    "title": "In Conversation with Elinora Vale",
+    "section": "Interviews",
+    "summary": "A interviews work centred on 'In Conversation with Elinora Vale', exploring ordinary courage with an emphasis on tender observation."
+  },
+  {
+    "item_id": "NW-0028",
+    "path": "staging/NW-0028/doc.md",
+    "title": "The Sound Engineer's Long View",
+    "section": "Interviews",
+    "summary": "A interviews work centred on 'The Sound Engineer's Long View', exploring the passage of seasons with an emphasis on clear-eyed honesty."
+  },
+  {
+    "item_id": "NW-0029",
+    "path": "staging/NW-0029/doc.md",
+    "title": "A Kitchen Conversation with Chef Marlowe",
+    "section": "Interviews",
+    "summary": "A interviews work centred on 'A Kitchen Conversation with Chef Marlowe', exploring maps and misdirection with an emphasis on rhythmic prose."
+  },
+  {
+    "item_id": "NW-0030",
+    "path": "staging/NW-0030/doc.md",
+    "title": "Between the Shelves: An Interview with Archivist Ndlovu",
+    "section": "Interviews",
+    "summary": "A interviews work centred on 'Between the Shelves: An Interview with Archivist Ndlovu', exploring quiet resilience with an emphasis on historical depth."
+  },
+  {
+    "item_id": "NW-0032",
+    "path": "staging/NW-0032/doc.md",
+    "title": "The Quiet Craft of Bookbinding",
+    "section": "Interviews",
+    "summary": "A interviews work centred on 'The Quiet Craft of Bookbinding', exploring the texture of daily work with an emphasis on plainspoken warmth."
+  },
+  {
+    "item_id": "NW-0033",
+    "path": "staging/NW-0033/doc.md",
+    "title": "An Interview with the Museum's Night Guard",
+    "section": "Interviews",
+    "summary": "A interviews work centred on 'An Interview with the Museum's Night Guard', exploring language and loss with an emphasis on careful argument."
+  },
+  {
+    "item_id": "NW-0034",
+    "path": "staging/NW-0034/doc.md",
+    "title": "Voices from the Community Theater",
+    "section": "Interviews",
+    "summary": "A interviews work centred on 'Voices from the Community Theater', exploring friendship across generations with an emphasis on unexpected intimacy."
+  },
+  {
+    "item_id": "NW-0035",
+    "path": "staging/NW-0035/doc.md",
+    "title": "A Close Reading of The Amber Notebook",
+    "section": "Reviews",
+    "summary": "A reviews work centred on 'A Close Reading of The Amber Notebook', exploring the weight of small decisions with an emphasis on slow-burning tension."
+  },
+  {
+    "item_id": "NW-0037",
+    "path": "staging/NW-0037/doc.md",
+    "title": "The Pleasures and Perils of Open Water",
+    "section": "Reviews",
+    "summary": "A reviews work centred on 'The Pleasures and Perils of Open Water', exploring memory and distance with an emphasis on precise sensory detail."
+  },
+  {
+    "item_id": "NW-0038",
+    "path": "staging/NW-0038/doc.md",
+    "title": "A New Life for The Winter Library",
+    "section": "Reviews",
+    "summary": "A reviews work centred on 'A New Life for The Winter Library', exploring inheritance and repair with an emphasis on dry humour."
+  },
+  {
+    "item_id": "NW-0039",
+    "path": "staging/NW-0039/doc.md",
+    "title": "Reviewing the Revised Field Atlas",
+    "section": "Reviews",
+    "summary": "A reviews work centred on 'Reviewing the Revised Field Atlas', exploring ordinary courage with an emphasis on tender observation."
+  },
+  {
+    "item_id": "NW-0040",
+    "path": "staging/NW-0040/doc.md",
+    "title": "The Case for Slow Arrivals",
+    "section": "Reviews",
+    "summary": "A reviews work centred on 'The Case for Slow Arrivals', exploring the passage of seasons with an emphasis on clear-eyed honesty."
+  },
+  {
+    "item_id": "NW-0041",
+    "path": "staging/NW-0041/doc.md",
+    "title": "Translating the Unspoken",
+    "section": "Translations",
+    "summary": "A translations work centred on 'Translating the Unspoken', exploring maps and misdirection with an emphasis on rhythmic prose."
+  },
+  {
+    "item_id": "NW-0042",
+    "path": "staging/NW-0042/doc.md",
+    "title": "The Translator's Dilemma",
+    "section": "Translations",
+    "summary": "A translations work centred on 'The Translator's Dilemma', exploring quiet resilience with an emphasis on historical depth."
+  },
+  {
+    "item_id": "NW-0043",
+    "path": "staging/NW-0043/doc.md",
+    "title": "Notes on Translating Silence",
+    "section": "Translations",
+    "summary": "A translations work centred on 'Notes on Translating Silence', exploring belonging and departure with an emphasis on lyrical restraint."
+  },
+  {
+    "item_id": "NW-0044",
+    "path": "staging/NW-0044/doc.md",
+    "title": "Between Two Tongues: A Translator's Diary",
+    "section": "Translations",
+    "summary": "A translations work centred on 'Between Two Tongues: A Translator's Diary', exploring the texture of daily work with an emphasis on plainspoken warmth."
+  },
+  {
+    "item_id": "NW-0045",
+    "path": "staging/NW-0045/doc.md",
+    "title": "The Little Lighthouse Keeper",
+    "section": "Children's",
+    "summary": "A children's work centred on 'The Little Lighthouse Keeper', exploring language and loss with an emphasis on careful argument."
+  },
+  {
+    "item_id": "NW-0046",
+    "path": "staging/NW-0046/doc.md",
+    "title": "Mimi and the Moon Balloon",
+    "section": "Children's",
+    "summary": "A children's work centred on 'Mimi and the Moon Balloon', exploring friendship across generations with an emphasis on unexpected intimacy."
+  },
+  {
+    "item_id": "NW-0047",
+    "path": "staging/NW-0047/doc.md",
+    "title": "The Very Patient Caterpillar",
+    "section": "Children's",
+    "summary": "A children's work centred on 'The Very Patient Caterpillar', exploring the weight of small decisions with an emphasis on slow-burning tension."
+  },
+  {
+    "item_id": "NW-0048",
+    "path": "staging/NW-0048/doc.md",
+    "title": "A Bear Called Bramble",
+    "section": "Children's",
+    "summary": "A children's work centred on 'A Bear Called Bramble', exploring place and identity with an emphasis on generous curiosity."
+  },
+  {
+    "item_id": "NW-0049",
+    "path": "staging/NW-0049/doc.md",
+    "title": "The Secret Door in the Attic",
+    "section": "Children's",
+    "summary": "A children's work centred on 'The Secret Door in the Attic', exploring memory and distance with an emphasis on precise sensory detail."
+  },
+  {
+    "item_id": "NW-0050",
+    "path": "staging/NW-0050/doc.md",
+    "title": "Pip's Pocketful of Stars",
+    "section": "Children's",
+    "summary": "A children's work centred on 'Pip's Pocketful of Stars', exploring inheritance and repair with an emphasis on dry humour."
+  },
+  {
+    "item_id": "NW-0051",
+    "path": "staging/NW-0051/doc.md",
+    "title": "How Cities Remember",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'How Cities Remember', exploring ordinary courage with an emphasis on tender observation."
+  },
+  {
+    "item_id": "NW-0052",
+    "path": "staging/NW-0052/doc.md",
+    "title": "The Hidden Life of Paper",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'The Hidden Life of Paper', exploring the passage of seasons with an emphasis on clear-eyed honesty."
+  },
+  {
+    "item_id": "NW-0053",
+    "path": "staging/NW-0053/doc.md",
+    "title": "A Practical Guide to Slow Reading",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'A Practical Guide to Slow Reading', exploring maps and misdirection with an emphasis on rhythmic prose."
+  },
+  {
+    "item_id": "NW-0054",
+    "path": "staging/NW-0054/doc.md",
+    "title": "The Mathematics of Everyday Wonder",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'The Mathematics of Everyday Wonder', exploring quiet resilience with an emphasis on historical depth."
+  },
+  {
+    "item_id": "NW-0055",
+    "path": "staging/NW-0055/doc.md",
+    "title": "Gardens of the Displaced",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'Gardens of the Displaced', exploring belonging and departure with an emphasis on lyrical restraint."
+  },
+  {
+    "item_id": "NW-0056",
+    "path": "staging/NW-0056/doc.md",
+    "title": "The Long History of the Pencil",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'The Long History of the Pencil', exploring the texture of daily work with an emphasis on plainspoken warmth."
+  },
+  {
+    "item_id": "NW-0057",
+    "path": "staging/NW-0057/doc.md",
+    "title": "Recipes from a Vanished Kitchen",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'Recipes from a Vanished Kitchen', exploring language and loss with an emphasis on careful argument."
+  },
+  {
+    "item_id": "NW-0058",
+    "path": "staging/NW-0058/doc.md",
+    "title": "The Bookbinder's Apprentice",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'The Bookbinder's Apprentice', exploring friendship across generations with an emphasis on unexpected intimacy."
+  },
+  {
+    "item_id": "NW-0059",
+    "path": "staging/NW-0059/doc.md",
+    "title": "A Year in the Margins",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'A Year in the Margins', exploring the weight of small decisions with an emphasis on slow-burning tension."
+  },
+  {
+    "item_id": "NW-0060",
+    "path": "staging/NW-0060/doc.md",
+    "title": "The Language of Maps",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'The Language of Maps', exploring place and identity with an emphasis on generous curiosity."
+  },
+  {
+    "item_id": "NW-0061",
+    "path": "staging/NW-0061/doc.md",
+    "title": "What the River Kept",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'What the River Kept', exploring memory and distance with an emphasis on precise sensory detail."
+  },
+  {
+    "item_id": "NW-0062",
+    "path": "staging/NW-0062/doc.md",
+    "title": "Letters from the Northern Edge",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'Letters from the Northern Edge', exploring inheritance and repair with an emphasis on dry humour."
+  },
+  {
+    "item_id": "NW-0063",
+    "path": "staging/NW-0063/doc.md",
+    "title": "The Weight of a Small Stone",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'The Weight of a Small Stone', exploring ordinary courage with an emphasis on tender observation."
+  },
+  {
+    "item_id": "NW-0064",
+    "path": "staging/NW-0064/doc.md",
+    "title": "Ink, Salt, and Time",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'Ink, Salt, and Time', exploring the passage of seasons with an emphasis on clear-eyed honesty."
+  },
+  {
+    "item_id": "NW-0065",
+    "path": "staging/NW-0065/doc.md",
+    "title": "The Shape of a Sentence",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'The Shape of a Sentence', exploring maps and misdirection with an emphasis on rhythmic prose."
+  },
+  {
+    "item_id": "NW-0066",
+    "path": "staging/NW-0066/doc.md",
+    "title": "A Catalogue of Quiet Things",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'A Catalogue of Quiet Things', exploring quiet resilience with an emphasis on historical depth."
+  },
+  {
+    "item_id": "NW-0201",
+    "path": "staging/NW-0201/doc.md",
+    "title": "The Almanac of Forgotten Bridges",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'The Almanac of Forgotten Bridges', exploring archive fragments and the quiet records that outlast their makers."
+  },
+  {
+    "item_id": "NW-0202",
+    "path": "staging/NW-0202/doc.md",
+    "title": "A Manual for Night Walking",
+    "section": "Essays",
+    "summary": "A essays work centred on 'A Manual for Night Walking', exploring archive fragments and the quiet records that outlast their makers."
+  },
+  {
+    "item_id": "NW-0203",
+    "path": "staging/NW-0203/doc.md",
+    "title": "The Orchard Keeper's Almanac",
+    "section": "Nonfiction",
+    "summary": "A nonfiction work centred on 'The Orchard Keeper's Almanac', exploring archive fragments and the quiet records that outlast their makers."
+  }
+]

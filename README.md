@@ -1,3 +1,3 @@
-# nw-autumn2026-staging-github_notion_google_sheet_418-c7a9f2
+# NW Autumn 2026 staging archive
 
-Initialised by the release pipeline.
+Each folder under `staging/` is named with the editor's Item ID and contains the canonical source document `doc.md`. The root `index.json` lists every document that is physically present in this archive.
